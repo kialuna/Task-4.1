@@ -9,12 +9,5 @@
 
 ## Contents: 
 
-#### plaques_map.html 
-#### BluePlaquesLocations.js
-#### map_setup_plaques.js
-#### owl.png
-#### map_style.css
-#### jscoord-1.1.1.js
-#### downloadxml.js
-
+[html](https://github.com/kialuna/Task-4.1/blob/main/multipleMarkers.html)
 
