@@ -11,3 +11,9 @@
 
 [html](https://github.com/kialuna/Task-4.1/blob/main/multipleMarkers.html)
 
+[Javascript Map setup](https://github.com/kialuna/Task-4.1/blob/main/map_setup.js)
+
+[Javascript marker data](https://github.com/kialuna/Task-4.1/blob/main/markerData_pics.js)
+
+[CSS](https://github.com/kialuna/Task-4.1/blob/main/map_style.css)
+
